@@ -13,7 +13,8 @@ An intelligent, multi-feature web application built with Streamlit, designed to 
 
 You can access the live, deployed application here:
 
-**[https://smart-farming-assistant.streamlit.app/](https://smart-farming-assistant.streamlit.app/)**
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-farming-assistant.streamlit.app/)
+
 ---
 
 ---
