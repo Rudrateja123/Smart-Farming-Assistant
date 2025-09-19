@@ -157,7 +157,7 @@ Follow these steps to run the application locally:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YourUsername/Smart-Farming-Assistant.git](https://github.com/YourUsername/Smart-Farming-Assistant.git)
+git clone https://github.com/Rudrateja123/Smart-Farming-Assistant.git
 cd Smart-Farming-Assistant
 ````
 
