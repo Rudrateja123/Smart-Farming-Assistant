@@ -81,6 +81,7 @@ Here's a gallery of the main features of the Smart Farming Assistant.
 
 Based on the comparative analysis, the **Random Forest Classifier was selected** for the final application. It demonstrated superior performance by achieving the **highest accuracy of 99.55%**, proving its robustness and capability in handling the intricate patterns within the agricultural data to provide highly reliable crop recommendations.
 
+---
 
 
 ### 🔬 2. Smart Disease Recognition
@@ -184,7 +185,14 @@ The application will open in your default web browser.
 
 -----
 
+
 ## 🙏 Acknowledgements
 
 This project is an enhanced and unified implementation based on the original **AgriSens** project by **[ravikant-diwakar](https://github.com/ravikant-diwakar)**. My work involved analyzing the initial complex structure, debugging the individual modules, training a new fertilizer recommendation model, integrating all components into a single functional Streamlit application, and significantly improving the user interface and overall usability.
 
+-----
+
+
+## 📄 License
+
+This project is licensed under the MIT License.
