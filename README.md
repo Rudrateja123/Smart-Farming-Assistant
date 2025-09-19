@@ -8,7 +8,13 @@
 
 An intelligent, multi-feature web application built with Streamlit, designed to empower farmers with data-driven insights for sustainable and profitable agriculture.
 
+---
+### 🚀 Live Demo
 
+You can access the live, deployed application here:
+
+**[https://smart-farming-assistant.streamlit.app/](https://smart-farming-assistant.streamlit.app/)**
+---
 
 ---
 
